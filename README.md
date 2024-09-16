@@ -1,1 +1,1 @@
-## End to End Machine Learning Project with AWS
+## End to End Machine Learning Project
